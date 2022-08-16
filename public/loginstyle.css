@@ -1,0 +1,50 @@
+#form
+{margin: auto;
+    margin-top: 100px;
+    display: block;
+   
+    text-align: center;
+}
+#form>input
+{
+    width: 60%;
+    font-size:20px;
+    display: block;
+   color: rgba(0, 0, 0, 0.699);
+    margin: auto;
+}
+h1{
+    font-size: 80px;
+    margin: auto;
+    text-align: center;
+    margin-top:100px ;
+    color: rgb(123, 209, 224);
+}
+button
+{
+    background-color: rgb(175, 175, 236);
+    font-size: 20px;
+    font-family: 400;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 30%;
+    border-radius:50px ;
+}
+main{
+    border: solid black 1px;
+    background-color: white;
+   margin-top: 260px;
+   width:30% ;
+   
+   justify-content: center;
+   text-align: center;
+   margin: auto 50px;
+}
+body{
+    
+    display: flex;
+    background-color: rgb(246, 251, 252);
+    justify-content: center;
+    text-align: center;
+  
+}
